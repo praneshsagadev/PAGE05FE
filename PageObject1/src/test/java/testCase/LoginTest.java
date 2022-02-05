@@ -31,7 +31,7 @@ public class LoginTest {
 		
 		PageFactory.initElements(driver, PageObj.class);
 		
-		
+		System.out.println("ok);
 		
 		
 		
